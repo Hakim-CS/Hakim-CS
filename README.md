@@ -25,6 +25,11 @@
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-cs&theme=algolia" /></a>
+</p>
+
+
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
