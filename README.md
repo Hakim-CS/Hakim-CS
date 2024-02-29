@@ -32,7 +32,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hakim-cs&theme=apprentice">
   </a>
 </p>
-https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only
 <!-- Snake Game -->
 <p align="center">
   <a href="https://github.com/hakim-cs#gh-light-mode-only" align="center">
