@@ -25,14 +25,7 @@
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Hakim-CS"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakim-CS&theme=chartreuse_dark" alt="Hakim-CS's github stats" /></a>
-</p>
 
-
-<a href="https://github.com/Hakim-CS" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
 
 <p align="left">
   <a href="https://github.com/Hakim-CS?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
