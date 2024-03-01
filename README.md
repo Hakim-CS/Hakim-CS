@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-hakim-nazary-578064293/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/hakim_.nazari_/"><img width="32px" title="Instagram" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1709203869~exp=1709204469~hmac=c9c90b5a239f841d365f7809450a535e249c9044f2a0b98b1799fd4e973449e9"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/hakim_.nazari_/"><img width="32px" title="Instagram" src="https://www.bing.com/images/search?view=detailV2&ccid=3yiEEUsM&id=C1FA23D4CAC122C7B2024D51AD39F3A1A56BB040&thid=OIP.3yiEEUsMl2WzvglZvjrskQHaHa&mediaurl=https%3a%2f%2fimage.similarpng.com%2fvery-thumbnail%2f2020%2f06%2fBlack-icon-Instagram-logo-transparent-PNG.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.df2884114b0c9765b3be0959be3aec91%3frik%3dQLBrpaHzOa1RTQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=Instagram+Icon+in+Black&simid=608018519120829286&FORM=IRPRST&ck=F5D9DDC2F35781AF7195E505F6C33FB2&selectedIndex=0&itb=0"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/abdulhakim67796"><img width="32px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"></a>
 </p>
 
