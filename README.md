@@ -10,9 +10,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-hakim-nazary-578064293/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/hakim_.nazari_/"><img width="36px" title="Instagram" src="https://th.bing.com/th/id/R.9fda2c126cd79c3ba074b92df56f5ac3?rik=6TyQh5h7DrVeMg&riu=http%3a%2f%2fmetaphortune.com%2fwp-content%2fuploads%2f2016%2f06%2finstagram.jpg&ehk=25amegjGZbMukH82JNNxMwDrvD1TReKHcm18R7PfLpg%3d&risl=&pid=ImgRaw&r=0"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/abdulhakim67796"><img width="32px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"></a>
+  <a href="https://www.linkedin.com/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/"><img width="36px" title="Instagram" src="https://th.bing.com/th/id/R.9fda2c126cd79c3ba074b92df56f5ac3?rik=6TyQh5h7DrVeMg&riu=http%3a%2f%2fmetaphortune.com%2fwp-content%2fuploads%2f2016%2f06%2finstagram.jpg&ehk=25amegjGZbMukH82JNNxMwDrvD1TReKHcm18R7PfLpg%3d&risl=&pid=ImgRaw&r=0"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/"><img width="32px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"></a>
 </p>
 
 <br/>
