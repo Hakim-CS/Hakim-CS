@@ -39,11 +39,13 @@
 </p>
 <!-- Snake Game -->
 <p align="center">
+
   <a href="https://github.com/hakim-cs#gh-dark-mode-only" align="center">
-    <img alt="GitHub Snake dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+    <img alt="GitHub Snake dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   </a>
-  <a href="https://github.com/hakim-cs#gh-dark-mode-only" align="center">
-    <img alt="GitHub Snake light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+   <a href="https://github.com/hakim-cs#gh-light-mode-only" align="center">
+    <img alt="GitHub Snake light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
   </a>
 </p>
 
