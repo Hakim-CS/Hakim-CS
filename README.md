@@ -38,16 +38,25 @@
   </a>
 </p>
 <!-- Snake Game -->
-<p align="center">
+            <!--<p align="center">
 
-  <a href="https://github.com/hakim-cs#gh-dark-mode-only" align="center">
+    <a href="https://github.com/hakim-cs#gh-dark-mode-only" align="center">
     <img alt="GitHub Snake dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  </a>
+    </a>
 
     <a href="https://github.com/hakim-cs#gh-light-mode-only" align="center">
     <img alt="GitHub Snake light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-  </a>
+    </a>
+    </p>
+  <!-- Snake Game -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
+
 
 
 
