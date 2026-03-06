@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/"><img width="36px" title="Instagram" alt="Instagram" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/"><img width="36px" title="Instagram" alt="Instagram" src="https://static.vecteezy.com/system/resources/previews/018/930/415/original/instagram-logo-instagram-icon-transparent-free-png.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"></a>
 </p>
 
